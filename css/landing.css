@@ -198,9 +198,13 @@ hr {
     }
 }
 
-#recommendation{
-  margin-left: 220px;
-  border: 2px solid cyan;
+#newsletter{
+  width: inherit;
+  border: 2px solid #f40654;
+  height: 60px;
+  color: white;
+  background-color: #00008b;
+  padding: 15px 25px;
 }
 
 
